@@ -18,7 +18,7 @@ FetchingNAS is different from other NAS models since it’s not trying to create
 
 
 
-#### Training on Cifar10:
+#### Training on Cifar10( 20 mins training ):
 
 ![](https://github.com/ChihchengHsieh/FetchingNAS/blob/master/imgs/Cifar10_TrainingHist.png?raw=true)
 ![](https://github.com/ChihchengHsieh/FetchingNAS/blob/master/imgs/Cifar10_TrainingHist2.png?raw=true)
